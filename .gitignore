@@ -1,0 +1,20 @@
+
+/APICoreRestful/bin
+/APICoreRestful/obj
+/APICoreRestful/bin/Debug/netcoreapp2.1
+/APICoreRestful/obj/Debug/netcoreapp2.1
+/APICoreRestful.Data/bin
+/APICoreRestful.Data/obj
+/APICoreRestful.Services/bin
+/APICoreRestful.Services/obj
+/APICoreRestful.Models/obj
+/APICoreRestful.Models/bin
+/APICoreRestful.ViewModels/bin
+/APICoreRestful.ViewModels/obj
+
+# misc
+.vs
+.vscode/
+
+#Mac OSX 
+.DS_Store
